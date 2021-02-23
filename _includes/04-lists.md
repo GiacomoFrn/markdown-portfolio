@@ -1,4 +1,4 @@
-### Hobbies
-* Running
-* Hiking
-* Scouting
+### Hobbies :smile:
+* Running :running:
+* Hiking :mountain:
+* Scouting :fire:
