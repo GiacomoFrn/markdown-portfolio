@@ -1,4 +1,4 @@
-### Skills
+### Skills :muscle:
 * Programming: 
   * **C++** _intermediate_
   * **Python** _beginner_
