@@ -1,0 +1,2 @@
+- [GitHub](https://github.com/GiacomoFrn)
+- [Linkedin](https://www.linkedin.com/in/giacomo-franceschetto/) 
